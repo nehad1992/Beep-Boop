@@ -20,7 +20,7 @@ A website created with HTML & Javascript where a user can submit a number and se
 
 ## Setup/Installation Requirements
 
-1. Clone the repository to your computer/laptop.
+1. Clone the repository to your computer/laptop. (https://nehad1992.github.io/Beep-Boop/)
 2. Open the webpage by double clicking on "index.html".
 3. Enter any number you like and enjoy the program.
 4. You can enter a new number as many times as you like.
