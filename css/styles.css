@@ -10,9 +10,23 @@ body {
 
 #result {
     padding: 30px;
+    animation-fill-mode: forwards;
 }
 
 h1 {
     text-align: center;
-    font-weight: bolder;
+    font-weight: 900;
+    color: rgb(187, 39, 39);
+    font-size: 100px;
+    
+}
+
+p {
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+.text {
+    font-size: 25px;
 }
