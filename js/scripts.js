@@ -1,3 +1,4 @@
+// User Logic
 $(document).ready(function() {
   
     $("form#formOne").submit(function(event) {
@@ -13,7 +14,8 @@ $(document).ready(function() {
         $("#image").show();
 
     });
-
+});
+// Back End logic
     function transform(input) {
         var output;
         if (input.toString().includes("3")===true) {
@@ -27,4 +29,3 @@ $(document).ready(function() {
         }
         return output;
     }
-});
